@@ -1,0 +1,6 @@
+{
+  "name": "ProjectForge AI",
+  "description": "An intelligent academic project report builder for school, college, undergraduate, postgraduate, and PhD students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
